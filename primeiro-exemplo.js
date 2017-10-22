@@ -1,4 +1,4 @@
-function fazerBolo (sabor) {
+function fazerBolo(sabor) {
     //faz o bolo
     var bolo = "Bolo de " + sabor;
 }

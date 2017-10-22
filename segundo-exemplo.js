@@ -1,6 +1,7 @@
-function fazerBolo (sabor, callback) {
+function fazerBolo(sabor, callback) {
     //faz o bolo
     var bolo = "Bolo de " + sabor;
+    //manda entregar o bolo
     callback(bolo);
 }
 
